@@ -11,12 +11,4 @@ A cloud-based telecom customer support portal built with **Flask** and hosted on
 - ☁️ AWS RDS MySQL with Connection Pooling
 - 🎨 Modern Glassmorphism UI (Dark Mode)
 
-## 🛠️ Tech Stack
 
-| Layer | Technology |
-|-------|-----------|
-| Backend | Python, Flask |
-| Database | MySQL on AWS RDS |
-| Frontend | HTML5, CSS3 (Glassmorphism) |
-| Templating | Jinja2 |
-| DB Driver | mysql-connector-python (pooling) |
