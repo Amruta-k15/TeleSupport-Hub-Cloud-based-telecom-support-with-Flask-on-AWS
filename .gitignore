@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.env
+venv/
+env/
+
+# Screenshots (generated files)
+screenshot_*.png
+
+# Generated docs scripts (optional - remove if you want to include them)
+generate_doc.py
+generate_doc_v2.py
+take_screenshots.py
+init_db.py
+
+# Word documents
+*.docx
+
+# Flask
+instance/
+.webassets-cache
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
