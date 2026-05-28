@@ -8,15 +8,6 @@ __pycache__/
 venv/
 env/
 
-# Screenshots (generated files)
-screenshot_*.png
-
-# Generated docs scripts (optional - remove if you want to include them)
-generate_doc.py
-generate_doc_v2.py
-take_screenshots.py
-init_db.py
-
 # Word documents
 *.docx
 
