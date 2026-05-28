@@ -15,16 +15,6 @@ dbconfig = {
 
 pool = pooling.MySQLConnectionPool(pool_name="mypool", pool_size=5, **dbconfig)
 
-# dbconfig = {
-#     "host": "localhost",
-#     "user": "root",
-#     "password": "@1919shwetu#",
-#     "database": "telesupporthub",
-#     "port": 3306
-# }
-
-# pool = pooling.MySQLConnectionPool(pool_name="mypool", pool_size=5, **dbconfig)
-
 
 @app.route('/')
 def home():
