@@ -8,9 +8,6 @@ __pycache__/
 venv/
 env/
 
-# Screenshots (generated files)
-screenshot_*.png
-
 # Word documents
 *.docx
 
